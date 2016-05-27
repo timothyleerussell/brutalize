@@ -6,8 +6,8 @@ Automated layout inspired by the spirit of [Brutalist Websites](http://brutalist
 
 ##Example:
 
-[Before](https://anatone.net)
-[After](https://anatone.net?brutalize=true)
+Before:	[https://anatone.net](https://anatone.net)
+After:	[https://anatone.net?brutalize=true](https://anatone.net?brutalize=true)
 
 
 ###1. Add this to the head of your page
