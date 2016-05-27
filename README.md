@@ -6,8 +6,8 @@ Automated layout inspired by the spirit of [Brutalist Websites](http://brutalist
 
 ##Example:
 
-	Before:	[https://anatone.net](https://anatone.net)
-	After:	[https://anatone.net?brutalize=true](https://anatone.net?brutalize=true)
+	Before:	https://anatone.net
+	After:	https://anatone.net?brutalize=true
 
 
 ###1. Add this to the head of your page
@@ -60,7 +60,7 @@ function UpdateQueryString(key, value, url) {
 
 ###3. Click the link to faux brutalize your page using hyper-advanced layout AI.
 
-* Click the link
+* Click the link you just created
 
 ####More about Brutalism:
 
