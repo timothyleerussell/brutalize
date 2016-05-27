@@ -7,6 +7,7 @@ Automated layout inspired by the spirit of [Brutalist Websites](http://brutalist
 ##Example:
 
 Before:	[https://anatone.net](https://anatone.net)
+
 After:	[https://anatone.net?brutalize=true](https://anatone.net?brutalize=true)
 
 
