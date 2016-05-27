@@ -2,7 +2,7 @@
 
 Get your own faux Brutalist Website redesign in 3 easy steps.
 
-Automated layout inspired by the spirit of [Brutalist Websites](http://brutalistwebsites.com/)
+Automated re-layout inspired by the spirit of [Brutalist Websites](http://brutalistwebsites.com/)
 
 ##Example:
 
